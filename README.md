@@ -1,4 +1,4 @@
-In the dynamic world of web development, I've spent nearly 15 years coding for a wide array of projects, from ERP handling hundreds of thousand of requests daily to front-end marvels collaborating with true artists.
+In the dynamic world of web development, I've spent nearly 15 years coding for a wide array of projects, from ERPs handling hundreds of thousand of requests daily to front-end marvels collaborating with true artists.
 
 My main fields of expertise are PHP, MySQL, JS ES6, CSS3/HTML5. 
 
